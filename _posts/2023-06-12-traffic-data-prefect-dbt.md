@@ -8,9 +8,7 @@ I structured the first version of this project as a series of tasks, with each t
 
 ## Prefect
 
-I've enjoyed using Prefect for orchestration -- it's got a lot of nice features without being too configuration-heavy (looking at you, Dagster). It was easy to start small with one Python file for tasks and flows, and add functionality as I needed it (a common.py file for commonly-used functions, deployment.py to define a deployment schedule.) I've mostly been running Prefect on the command line, but it's been nice to fire up the server and see all my runs and scheduled deployments:
-
-TK - screenshot of server
+I've enjoyed using Prefect for orchestration -- it's got a lot of nice features without being too configuration-heavy (looking at you, Dagster). It was easy to start small with one Python file for tasks and flows, and add functionality as I needed it (a common.py file for commonly-used functions, deployment.py to define a deployment schedule.) I've mostly been running Prefect on the command line, but it's been nice to fire up the server and see all my runs and scheduled deployments.
 
 I defined the following tasks and flows in Prefect:
 - Download CSVs of crashes, vehicles, and people data from the Chicago Open Data Portal website. (There's a JSON API, but for the purposes of this project, I found it faster and easier to just download the CSVs.)
