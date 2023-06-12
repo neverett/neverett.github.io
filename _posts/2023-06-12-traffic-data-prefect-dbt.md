@@ -2,7 +2,7 @@
 title: Transforming Chicago traffic crash data with Prefect and dbt
 ---
 
-I put together a data engineering and analysis project using data I was already exploring from the [Chicago Data Portal](https://data.cityofchicago.org/) (specifically, [traffic crashes data](https://data.cityofchicago.org/browse?q=Traffic%20Crashes%20-%20Crashes&sortBy=relevance)). (Originally I was interested in exploring and analyzing this data to see if there was any correlation between accident severity and particular make/model/year of car, specifically newer makes and models with higher profiles and decreased visibility.)
+I put together a [data engineering and analysis project](https://github.com/datatoolsrc2023/chicago_traffic_crashes) using data I had already started exploring from the [Chicago Data Portal](https://data.cityofchicago.org/) (specifically, [traffic crashes data](https://data.cityofchicago.org/browse?q=Traffic%20Crashes%20-%20Crashes&sortBy=relevance)). (Originally I was interested in exploring and analyzing this data to see if there was any correlation between accident severity and particular make/model/year of car, specifically newer makes and models with higher profiles and decreased visibility.)
 
 I structured the first version of this project as a series of tasks, with each task in a separate directory that held a handful of Python scripts (setup, test, etc) and a Makefile to coordinate their execution. To execute all tasks, I switched into each directory and ran `make`; I intended to write a higher-level script to automate that bit later. However, I decided to refactor the project with [Prefect Core](https://docs.prefect.io/2.10.13/) and [dbt Core](https://docs.getdbt.com/) to get more experience with industry-standard tools.
 
