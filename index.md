@@ -15,4 +15,6 @@ For data wrangling, I often use the PETL, polars, and Parsons Python libraries, 
 
 I'm starting to dip my toe into data visualization with the Plotly Python library and Dash, and data publishing with Datasette, inspired by the [Public Utility Data Liberation Project (PUDL)](https://catalyst.coop/pudl/).
 
+<hr />
+
 I like working with people and organizations committed to police abolition, decarceration, labor power, and environmental justice. If that sounds like you, reach out to me at everettn AT protonmail DOT com or find me on [GitHub](https://github.com/neverett). For my full resume, see my [LinkedIn profile](https://linkedin.com/in/nikki-everett/).
