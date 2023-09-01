@@ -11,7 +11,7 @@ links:
   - name:         About me
     url:          /
     external:     false
-  - name:         Portfolio
+  - name:         Docs portfolio
     url:          /portfolio
     external:     false
   - name:         Posts

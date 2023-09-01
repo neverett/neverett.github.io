@@ -2,7 +2,15 @@
 title: About me
 ---
 
-I am a Chicago-based technical writer and data engineer. I also like to swim in Lake Michigan, make decadent lasagna, and play the viola.
+I am a Chicago-based data engineer and technical writer. I also like to swim in Lake Michigan, make decadent lasagna, and play the viola.
+
+## Data engineering
+
+As a data engineer, I enjoy building ETL/ELT pipelines to transform messy data into cleaned and reshaped database tables and views that organizers, analysts, researchers, and journalists can query with confidence.
+
+For data wrangling, I often use the PETL, polars, and Parsons Python libraries, as well as good old fashioned SQL in dbt models. I have a lot of experience using Civis Platform for pipeline orchestration, but lately I've been using Prefect Core, and sometimes even makefiles and cron jobs, depending on the needs of the project. I used Amazon Redshift extensively in my last job, MySQL in previous projects, and PostgreSQL and SQLite for my most recent data work.
+
+I'm starting to dip my toe into data visualization with the Plotly Python library and Dash, and data publishing with Datasette, inspired by the [Public Utility Data Liberation Project (PUDL)](https://catalyst.coop/pudl/).
 
 ## Technical writing
 
@@ -20,15 +28,8 @@ For examples of my product documentation work, see my [portfolio page](/portfoli
 
 I like partnering with engineers and other technical experts to write docs that make their lives easier, and have written development environment setup docs, technical onboarding presentations, code style guides, troubleshooting procedures, incident response manuals, and other modern poetry in my capacity as a Data Engineer at The Movement Cooperative and an Internal Content Developer at Oracle.
 
-I like using GitHub wikis for internal docs, but am also proficient with Confluence, and am amenable to most any wiki software. 
+I like using GitHub wikis for internal docs, but am also proficient with Confluence, and am amenable to most any wiki software.
 
-## Data engineering
-
-As a data engineer, I enjoy building ETL/ELT pipelines to transform messy data into cleaned and reshaped database tables and views that organizers, analysts, researchers, and journalists can query with confidence.
-
-For data wrangling, I often use the PETL, polars, and Parsons Python libraries, as well as good old fashioned SQL in dbt models. I have a lot of experience using Civis Platform for pipeline orchestration, but lately I've been using Prefect Core, and sometimes even makefiles and cron jobs, depending on the needs of the project. I used Amazon Redshift extensively in my last job, MySQL in previous projects, and PostgreSQL and SQLite for my most recent data work.
-
-I'm starting to dip my toe into data visualization with the Plotly Python library and Dash, and data publishing with Datasette, inspired by the [Public Utility Data Liberation Project (PUDL)](https://catalyst.coop/pudl/).
 
 ## Contact
 
