@@ -2,7 +2,7 @@
 title: About me
 ---
 
-I am a Chicago-based data engineer and technical writer. I also like to swim in Lake Michigan, make decadent lasagna, and play the viola.
+I am a Chicago-based data engineer and technical writer. I like swimming in Lake Michigan, making decadent lasagna, and playing the viola.
 
 ## Data engineering
 
@@ -16,9 +16,9 @@ I'm starting to dip my toe into data visualization with the Plotly Python librar
 
 ### Product documentation
 
-I have written extensive technical product documentation for npm and GitHub, and generally enjoy documenting developer tools. Thanks to my data engineering experience, I'm also enthusiastic about learning and documenting cloud technologies, particularly cloud databases. I prefer writing docs in Markdown, have experienced all the highs and lows of using Jekyll for docs (particularly the Liquid template language, and YAML for reusable content), and am a quick study with any static site generator.
+I have written extensive technical product documentation for npm and GitHub, and generally enjoy documenting developer tools for developer audiences. Thanks to my data engineering experience, I'm also enthusiastic about learning and documenting cloud technologies, particularly cloud databases. I prefer writing docs in Markdown, have experienced all the highs and lows of using Jekyll for docs (particularly the Liquid template language, and YAML for reusable content), and am a quick study with any static site generator.
 
-I care deeply about accessibility, and add alt text to images, write headings, titles, and link text with screen readers in mind, and keep my tone friendly, but free of idiomatic language that can be difficult to localize.
+Because I care deeply about accessibility, I add alt text to images, write title, header, and link text with screen readers in mind, and keep my tone friendly, but free of idiomatic language that can be difficult to localize.
 
 I like using pull or merge requests to draft and review docs, getting and giving feedback early and often, and continuously shipping doc updates to keep pace with the speed of modern software development. I have a history of initiating and completing ambitious, transformative projects, and like working with similarly-inclined people.
 
