@@ -26,7 +26,9 @@ I created the high-level structure of the documentation shown below. ("Threats a
 
 #### Category and subcategory architecture
 
-Within each category, I created task-oriented subcategories and articles. To keep the documentation usable, I stopped at a depth of one subcategory, since too many levels of hierarchy in documentation can be confusing and annoying to navigate. One example is the "Packages and modules" category. Each subcategory contains a mix of conceptual ("About the public npm registry"), procedural ("Creating a package.json file") and/or reference articles ("npm package scope, access level, and visibility") that can be read separately or individually, and are progressively linked so the reader can move easily through the documentation, stopping when they have completed the task they set out to accomplish, or have satisfied their curiosity.
+Within each category, I created task-oriented subcategories and articles. To keep the documentation usable, I stopped at a depth of one subcategory, since too many levels of hierarchy in documentation can be confusing and annoying to navigate.
+
+One example is the "Packages and modules" category. Each subcategory contains a mix of conceptual ("About the public npm registry"), procedural ("Creating a package.json file") and/or reference articles ("npm package scope, access level, and visibility") that can be read separately or individually, and are progressively linked so the reader can move easily through the documentation, stopping when they have completed the task they set out to accomplish, or have satisfied their curiosity.
 
 <img width="1061" alt="Screenshot 2023-08-30 at 3 51 01 PM" src="https://github.com/datatoolsrc2023/nlrb_data/assets/417209/a3bd2bfe-9489-4a6f-900c-9368dc6f02b4">
 <img width="1067" alt="Screenshot 2023-08-30 at 3 56 58 PM" src="https://github.com/datatoolsrc2023/nlrb_data/assets/417209/41551f9f-43d1-496b-ad42-15bbffadccc7">
