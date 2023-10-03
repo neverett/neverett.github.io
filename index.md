@@ -28,7 +28,7 @@ For examples of my product documentation work, see my [documentation portfolio p
 
 ### Internal technical documentation
 
-I like partnering with engineers and other technical experts to write docs that make their lives easier, and have written development environment setup docs, technical onboarding presentations, code style guides, troubleshooting procedures, incident response manuals, and other modern poetry in my capacity as a Data Engineer at The Movement Cooperative and an Internal Content Developer at Oracle.
+I like partnering with engineers and other technical experts to write docs that make their lives easier, and have written development environment setup docs, technical onboarding presentations, code style guides, troubleshooting procedures, incident response manuals, and other modern poetry in my capacity as a data engineer at The Movement Cooperative and an internal content developer at Oracle.
 
 I like using GitHub wikis for internal docs, but am also proficient with Confluence, and am amenable to most any wiki software.
 
