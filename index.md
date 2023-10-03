@@ -12,6 +12,8 @@ For data wrangling, I often use the PETL, polars, and Parsons Python libraries, 
 
 I'm starting to dip my toe into data visualization with the Plotly Python library and Dash, and data publishing with Datasette, inspired by the [Public Utility Data Liberation Project (PUDL)](https://catalyst.coop/pudl/).
 
+For examples of my data engineering work, see my [Chicago traffic crashes data project](https://github.com/datatoolsrc2023/chicago_traffic_crashes) and the [NLRB case data project](https://github.com/datatoolsrc2023/nlrb_data) I worked on with other participants of Recurse Center.
+
 ## Technical writing
 
 ### Product documentation
