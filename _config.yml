@@ -11,12 +11,6 @@ links:
   - name:         About me
     url:          /
     external:     false
-  - name:         Docs portfolio
-    url:          /portfolio
-    external:     false
-  - name:         Posts
-    url:          /posts
-    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
